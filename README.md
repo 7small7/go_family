@@ -8,6 +8,10 @@ Go学习相关资料，内容包含博客、电子书籍、视频教程、面试
 
 - 字符串
     - [为什么Go中的字符串不能进行修改](https://mp.weixin.qq.com/s/7QfMC_7jJDQeTrygt-4QTw)
+
+- 函数
+    - [defer中中不可忽视的七个小细节](https://mp.weixin.qq.com/s/6npkegMwCvmWvkqcD6YUsw)
+
 ## Redis面试笔记
 
 ## MySQL面试笔记
