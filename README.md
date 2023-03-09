@@ -12,13 +12,6 @@ Go学习相关资料，内容包含博客、电子书籍、视频教程、面试
 - 函数
     - [defer中不可忽视的七个小细节](https://mp.weixin.qq.com/s/6npkegMwCvmWvkqcD6YUsw)
 
-## Redis面试笔记
-
-## MySQL面试笔记
-
-- 事务
-    - [MVVC多版本并发控制底层原理解析](https://mp.weixin.qq.com/s/FY7HM-W9hQcaMlvrIplmNw)
-
 ## 教程文档
 
 ## 视频教程
