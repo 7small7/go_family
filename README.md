@@ -4,6 +4,17 @@ Go学习相关资料，内容包含博客、电子书籍、视频教程、面试
 
 # 目录
 
+## Go面试笔记
+
+- 字符串
+    - [为什么Go中的字符串不能进行修改](https://mp.weixin.qq.com/s/7QfMC_7jJDQeTrygt-4QTw)
+## Redis面试笔记
+
+## MySQL面试笔记
+
+- 事务
+    - [MVVC多版本并发控制底层原理解析](https://mp.weixin.qq.com/s/FY7HM-W9hQcaMlvrIplmNw)
+
 ## 教程文档
 
 ## 视频教程
@@ -11,13 +22,6 @@ Go学习相关资料，内容包含博客、电子书籍、视频教程、面试
 ## 技术社区
 
 ## 电子书籍
-
-## 面试笔记
-
-### 数据类型
-
-- 字符串
-    - [为什么Go中的字符串不能进行修改](https://mp.weixin.qq.com/s/7QfMC_7jJDQeTrygt-4QTw)
 
 ## 开源框架
 
